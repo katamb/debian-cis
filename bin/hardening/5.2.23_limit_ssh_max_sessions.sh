@@ -98,7 +98,7 @@ create_config() {
 status=audit
 # Value of maxsessions
 # Settles sshd maxsessions
-OPTIONS='maxsessions=10'
+OPTIONS='maxsessions=2'
 EOF
 }
 
